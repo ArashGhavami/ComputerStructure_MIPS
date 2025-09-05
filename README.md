@@ -39,7 +39,3 @@ Neither approach is universally “better”—modern CPUs often blend ideas. Bu
 MIPS assembly ties these together: you see how high-level constructs (loops, functions, arrays) map to registers, instructions, and memory.
 
 ---
-
-## Repository Structure
-
-
